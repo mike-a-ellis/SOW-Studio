@@ -1,0 +1,14 @@
+streamlit
+PyPDF2
+langchain-openai
+langchain
+python-dotenv
+qdrant-client
+langchain-community
+langchain-core
+tiktoken
+openai
+cohere
+chainlit
+faiss-cpu
+unstructured
