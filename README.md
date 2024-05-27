@@ -18,8 +18,15 @@ Welcome to SOW-Studio, an open-source software tool specifically designed for IT
 - **Increase Efficiency:** Streamline the SOW creation process, allowing consultants to draft documents faster without compromising on quality.
 - **Scale SOW Authoring:** Enable a consistent level of professionalism across all SOWs drafted within the organization, regardless of the consultant's experience level.
 
+
+## YouTube Presentation
+Brief explanation of what a SOW is, the challenges in writing one, how we address those challenges SOW-Studio, live demonstration, architecture, and brief code walk through.
+
+https://youtu.be/55RjolUBYjE
 ## System Diagram
 ![alt text](SOW-Studio-System-Diagram.png "Title")
+
+
 
 
 ## Getting Started
@@ -29,7 +36,7 @@ To start using SOW-Studio, clone the repository and follow these installation in
 0. Run the command `pip install -r requirements.txt`
 1. Add a .env file with a single ChatGPT API Key line like below:
 `OPENAI_API_KEY=sk-yourkeyhere`
-2. Load up the `/input_data/` folder with your high-quality historical SOWS.  They must be .txt files.
+2. Load up the `/input_data/` folder with your high-quality historical SOWs.  They must be .txt files.
 3. Run the app locally using the command  `streamlit run app.py`
 4. Or run using Docker and these 2 commands :
   * `docker build -t SOW-Studio .`
