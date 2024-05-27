@@ -18,6 +18,10 @@ Welcome to SOW-Studio, an open-source software tool specifically designed for IT
 - **Increase Efficiency:** Streamline the SOW creation process, allowing consultants to draft documents faster without compromising on quality.
 - **Scale SOW Authoring:** Enable a consistent level of professionalism across all SOWs drafted within the organization, regardless of the consultant's experience level.
 
+## System Diagram
+![alt text](SOW-Studio-System-Diagram.png "Title")
+
+
 ## Getting Started
 
 To start using SOW-Studio, clone the repository and follow these installation instructions:
